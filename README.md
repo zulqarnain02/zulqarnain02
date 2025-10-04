@@ -93,35 +93,46 @@
 
 <table>
 <tr>
-<td width="48%" valign="top" style="background: #f5f5f5; border-radius:15px; padding:20px; margin:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<td width="48%" valign="top" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius:15px; padding:20px; margin:10px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); color: white; transition: all 0.3s ease; border: 1px solid rgba(255,255,255,0.2);">
+<div style="text-align: left;">
 <b>🚀 Full Stack Engineer</b><br>
 <i>@ Babbage Insight (Remote)</i><br>
-<small>May 2025 – July 2025</small><br><br>
-<b>Tech Stack:</b> Next.js, FastAPI, PostgreSQL, AWS, Docker<br><br>
-<ul>
-<li>Designed & implemented full-stack web applications</li>
-<li>Built & optimized RESTful APIs for high performance</li>
-<li>Managed and structured PostgreSQL databases</li>
-<li>Deployed applications on AWS using Docker containers</li>
-<li>Implemented CI/CD pipelines with GitHub Actions</li>
+<small>📅 May 2025 – July 2025</small><br><br>
+<b>🛠️ Tech Stack:</b> Next.js, FastAPI, PostgreSQL, AWS, Docker<br><br>
+<ul style="color: white;">
+<li>✨ Designed & implemented full-stack web applications</li>
+<li>⚡ Built & optimized RESTful APIs for high performance</li>
+<li>🗄️ Managed and structured PostgreSQL databases</li>
+<li>☁️ Deployed applications on AWS using Docker containers</li>
+<li>🔁 Implemented CI/CD pipelines with GitHub Actions</li>
 </ul>
+</div>
 </td>
 
-<td width="48%" valign="top" style="background: #f5f5f5; border-radius:15px; padding:20px; margin:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<td width="48%" valign="top" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius:15px; padding:20px; margin:10px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); color: white; transition: all 0.3s ease; border: 1px solid rgba(255,255,255,0.2);">
+<div style="text-align: left;">
 <b>🔬 Research Intern – Experience Design Lab</b><br>
 <i>@ PES University</i><br>
-<small>Feb 2025 – Apr 2025</small><br><br>
-<b>Tech Stack:</b> Unity, C#<br><br>
-<ul>
-<li>Developed XR prototypes & interactive 2D/3D games</li>
-<li>Built custom plugins to enhance XR experiences</li>
-<li>Contributed to research reports and technical documentation</li>
+<small>📅 Feb 2025 – Apr 2025</small><br><br>
+<b>🛠️ Tech Stack:</b> Unity, C#<br><br>
+<ul style="color: white;">
+<li>🎮 Developed XR prototypes & interactive 2D/3D games</li>
+<li>🔧 Built custom plugins to enhance XR experiences</li>
+<li>📄 Contributed to research reports and technical documentation</li>
 </ul>
+</div>
 </td>
 </tr>
 </table>
 
 </div>
+
+<style>
+td:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 35px rgba(0,0,0,0.25);
+}
+</style>
 
 ---
 
