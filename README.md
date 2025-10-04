@@ -6,7 +6,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="800" height="200"/>
 </div>
-  <p><b>A passionate Full Stack Developer from India 🌏</b></p>
+  <h4><b>A passionate Full Stack Developer from India 🌏</b></h4>
 </div>
 
 ---
