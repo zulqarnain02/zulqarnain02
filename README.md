@@ -38,16 +38,16 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,mysql" width="40" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,mysql" width="100" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" width="40" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" width="100" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres" width="40" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres" width="100" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" width="40" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" width="100" />
 
 </div>
 
