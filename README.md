@@ -31,39 +31,32 @@
 
 </div>
 
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 ## 🛠️ Skills
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px;">
 
-<table>
-<tr>
-<td align="center" style="padding:15px; border-radius:15px; border:1px solid #ddd; margin:5px;">
-<b>💻 Programming Languages</b><br>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,mysql" width="180"/>
-</td>
-<td align="center" style="padding:15px; border-radius:15px; border:1px solid #ddd; margin:5px;">
-<b>🎨 Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" width="180"/>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding:15px; border-radius:15px; border:1px solid #ddd; margin:5px;">
-<b>⚙️ Backend</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres" width="180"/>
-</td>
-<td align="center" style="padding:15px; border-radius:15px; border:1px solid #ddd; margin:5px;">
-<b>🛠️ Tools & Platforms</b><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" width="180"/>
-</td>
-</tr>
-</table>
+<div style="background:#f5f5f5; padding:20px; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1); width:200px; text-align:center;">
+  <b>💻 Programming Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,mysql" width="150" style="margin-top:10px;"/>
+</div>
+
+<div style="background:#f5f5f5; padding:20px; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1); width:200px; text-align:center;">
+  <b>🎨 Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" width="150" style="margin-top:10px;"/>
+</div>
+
+<div style="background:#f5f5f5; padding:20px; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1); width:200px; text-align:center;">
+  <b>⚙️ Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres" width="150" style="margin-top:10px;"/>
+</div>
+
+<div style="background:#f5f5f5; padding:20px; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1); width:200px; text-align:center;">
+  <b>🛠️ Tools & Platforms</b><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" width="150" style="margin-top:10px;"/>
+</div>
 
 </div>
 
----
 
 ## 💼 Experience
 
