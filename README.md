@@ -31,28 +31,55 @@
 
 </div>
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px;">
+<div align="center">
 
-<div style="background:#f5f5f5; padding:20px; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1); width:200px; text-align:center;">
-  <b>💻 Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,mysql" width="150" style="margin-top:10px;"/>
+### 💻 **Programming Languages**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-<div style="background:#f5f5f5; padding:20px; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1); width:200px; text-align:center;">
-  <b>🎨 Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" width="150" style="margin-top:10px;"/>
+### 🎨 **Frontend Development**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-<div style="background:#f5f5f5; padding:20px; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1); width:200px; text-align:center;">
-  <b>⚙️ Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres" width="150" style="margin-top:10px;"/>
+### ⚙️ **Backend Development**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
-<div style="background:#f5f5f5; padding:20px; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1); width:200px; text-align:center;">
-  <b>🛠️ Tools & Platforms</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" width="150" style="margin-top:10px;"/>
+### 🚀 **Tools & Platforms**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</div>
+
+### 🎯 **Core Competencies**
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logo=oop&logoColor=white" alt="OOP"/>
+  <img src="https://img.shields.io/badge/DSA-4ECDC4?style=for-the-badge&logo=dsa&logoColor=white" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Databases-45B7D1?style=for-the-badge&logo=database&logoColor=white" alt="Databases"/>
+  <img src="https://img.shields.io/badge/CN-96CEB4?style=for-the-badge&logo=network&logoColor=white" alt="Computer Networks"/>
+  <img src="https://img.shields.io/badge/OS-F7D794?style=for-the-badge&logo=os&logoColor=white" alt="Operating Systems"/>
 </div>
 
 </div>
