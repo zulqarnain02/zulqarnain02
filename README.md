@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
   <p><b>A passionate Full Stack Developer from India 🌏</b></p>
 </div>
 
@@ -138,4 +138,34 @@ Feb 2025 – Apr 2025<br><br>
 
 ---
 
-## 📊 GitHub S
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zulqarnain02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain02&layout=compact&langs_count=8&theme=tokyonight" height="150"/>
+</div>
+
+---
+
+## 📫 Connect with Me
+<div align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulqarnain4292@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-zulqarnain)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zulqarnain02)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/zulqarnain4292)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zulqarnain02.github.io)
+</div>
+
+---
+
+### 👀 Visitors Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zulqarnain02&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="150"/>
+<br>
+<b>Thanks for visiting my profile! Have a great day! 😄</b>
+</div>
