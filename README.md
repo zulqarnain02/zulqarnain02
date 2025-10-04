@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
   <p><b>A passionate Full Stack Developer from India 🌏</b></p>
 </div>
 
@@ -38,16 +38,16 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,mysql" width="100" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,mysql" width="200" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" width="100" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" width="200" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres" width="100" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres" width="200" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" width="100" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" width="200" />
 
 </div>
 
