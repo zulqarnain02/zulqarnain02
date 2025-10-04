@@ -3,7 +3,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+  <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  </div>
   <p><b>A passionate Full Stack Developer from India 🌏</b></p>
 </div>
 
