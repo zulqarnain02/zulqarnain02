@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180"/>
   <p><b>A passionate Full Stack Developer from India 🌏</b></p>
 </div>
 
@@ -113,31 +113,6 @@ Feb 2025 – Apr 2025<br><br>
 
 ---
 
-## 📜 Certifications
-<div align="center">
-
-<table>
-<tr>
-<th>Certificate</th><th>Organization</th>
-</tr>
-<tr>
-<td>Introduction to AI with Java</td><td>Infosys Springboard</td>
-</tr>
-<tr>
-<td>Build Web App with Angular, Node.js & Firebase</td><td>PESUIO</td>
-</tr>
-<tr>
-<td>Problem Solving (Intermediate)</td><td>HackerRank</td>
-</tr>
-<tr>
-<td>CLI & OS Commands</td><td>Infosys Springboard</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zulqarnain02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
@@ -148,11 +123,13 @@ Feb 2025 – Apr 2025<br><br>
 
 ## 📫 Connect with Me
 <div align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulqarnain4292@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-zulqarnain)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zulqarnain02)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/zulqarnain4292)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zulqarnain02.github.io)
+
+<a href="mailto:zulqarnain4292@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mohammed-zulqarnain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/zulqarnain02"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/zulqarnain4292"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://zulqarnain02.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+
 </div>
 
 ---
