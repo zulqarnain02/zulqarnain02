@@ -4,8 +4,8 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-  </div>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="800" height="200"/>
+</div>
   <p><b>A passionate Full Stack Developer from India 🌏</b></p>
 </div>
 
